@@ -6,14 +6,17 @@ Our project is a pre-processing procedure to better actuate a prosthetic arm usi
 Using the discrete wavelet transform
 
 
-
+**Circuit Diagram**
 <img src= "/Circuit Diagram.png" width="500" style="display: block; margin: auto;" />
+**Collecting Data from Front Arm**
 <img src= "/Real Sensors.png" width="500" style="display: block; margin: auto;" />
-
-<img src= "/raw closed Fist.png" width="500" style="display: block; margin: auto;" />
-
+**Closed Fist Signal**
+<img src= "/raw closed fist.png" width="500" style="display: block; margin: auto;" />
+**Open Palm Signal**
 <img src= "/raw open palm.png" width="500" style="display: block; margin: auto;" />
 
+**Sensor Places**
+<img src= "/sensorPlace.001.jpeg" width="500" style="display: block; margin: auto;" />
 
 
 ## Welcome to GitHub Pages
@@ -46,10 +49,4 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/minabeshay/sEMGProjectWerbsite/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
