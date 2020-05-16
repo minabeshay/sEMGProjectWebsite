@@ -10,10 +10,9 @@ Using the discrete wavelet transform
 <img src= "/Circuit Diagram.png" width="500" style="display: block; margin: auto;" />
 <img src= "/Real Sensors.png" width="500" style="display: block; margin: auto;" />
 
-<img src= "/Sensors on arm.png" style="display: block; margin: auto;" />
+<img src= "/raw closed Fist.png" width="500" style="display: block; margin: auto;" />
 
-
-
+<img src= "/raw open palm.png" width="500" style="display: block; margin: auto;" />
 
 
 
