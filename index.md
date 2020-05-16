@@ -11,7 +11,7 @@ Our biggest desire after real-time functionality is to expand our testing to mor
 
 ### Circuit Diagram
 
-<img src= "/Circuit Diagram.PNG" width="500" style="display: block; margin: auto;" />
+<img src= "/Circuit Diagram.png" width="500" style="display: block; margin: auto;" />
 
 ### Collecting Data from Front Arm
 
