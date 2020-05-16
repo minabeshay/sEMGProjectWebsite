@@ -8,9 +8,9 @@ Using the discrete wavelet transform
 
 
 <img src= "/Circuit Diagram.png" style="display: block; margin: auto;" />
+<img src= "/Real Sensors.png" style="display: block; margin: auto;" />
 
-
-
+<img src= "/Sensors on arm.png" style="display: block; margin: auto;" />
 
 
 
