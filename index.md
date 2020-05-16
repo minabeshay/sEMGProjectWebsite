@@ -29,6 +29,9 @@ Our biggest desire after real-time functionality is to expand our testing to mor
 ### Sensor Places
 <img src= "sensorPlace.001.jpeg" width="500" style="display: block; margin: auto;" />
 
+Classification table
+
+
 ## Conclusion
 Using Discrete wavelet transform and the Daubechies Double Tap mother wavelet allowed us to improve the accuracy for 4 out of the 7 classifiers that we used. Overall we noticed that the classifiers that were most improved by first performing the Wavelet transform before training were the classifiers that initially performed the worst. Adding the extra step went as far as doubling or even quadrupling what started off as relatively poor performing classifiers. We believe that these methods initially performed so poorly because these classifiers have tendency to overfit. When some noise enters the signal, the classifier's try to fit these points as well which decreases the accuracy. By first breaking the signals down to their wavelet transform coefficients, the data became more clean because of its de-noising nature and its ability to make more defining characteristics of the grasp signal more prominent after the transform.
 
