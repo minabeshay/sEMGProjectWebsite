@@ -29,6 +29,9 @@ Our biggest desire after real-time functionality is to expand our testing to mor
 ### Sensor Places
 <img src= "sensorPlace.001.jpeg" width="500" style="display: block; margin: auto;" />
 
+### Results
+<img src= "table.png" width="500" style="display: block; margin: auto;" />
+
 Classification table
 
 
