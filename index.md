@@ -1,5 +1,9 @@
 # Project Overview
+Our project is a pre-processing procedure to better actuate a prosthetic arm using muscle signals from the forearm of a patient with the use of Surface Electromyography (sEMG) sensors. Our work experiments with wavelet transform theory as a means of pre-processing for sEMG signals. By first performing a wavelet transform on the sEMG signals, we found that we can greatly improve classifier accuracy to gain more performance from the typically noisy sEMG data.
 
+
+## Real World Applications
+Using 
 
 
 ## Welcome to GitHub Pages
