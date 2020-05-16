@@ -7,8 +7,8 @@ Using the discrete wavelet transform
 
 
 
-![Circuit Diagram](/Circuit Diagram.png)
-!https://github.com/minabeshay/sEMGProjectWebsite/blob/master/Circuit%20Diagram.png
+<img src= "/Circuit Diagram.png" style="display: block; margin: auto;" />
+
 
 
 
