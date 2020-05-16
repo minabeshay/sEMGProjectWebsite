@@ -6,6 +6,17 @@ Our project is a pre-processing procedure to better actuate a prosthetic arm usi
 Using the discrete wavelet transform
 
 
+
+![GitHub Logo](/Circuit Diagram.png)
+Format: !https://github.com/minabeshay/sEMGProjectWebsite/blob/master/Circuit%20Diagram.png
+
+
+
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/minabeshay/sEMGProjectWerbsite/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
