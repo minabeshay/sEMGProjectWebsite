@@ -13,9 +13,11 @@ Using the discrete wavelet transform
 ### Collecting Data from Front Arm
 
 <img src= "/Real Sensors.png" width="500" style="display: block; margin: auto;" />
+
 ### Closed Fist Signal
 
 <img src= "/raw closed fist.png" width="500" style="display: block; margin: auto;" />
+
 ### Open Palm Signal
 
 <img src= "/raw open palm.png" width="500" style="display: block; margin: auto;" />
