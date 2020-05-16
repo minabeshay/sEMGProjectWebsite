@@ -6,16 +6,16 @@ Our project is a pre-processing procedure to better actuate a prosthetic arm usi
 Using the discrete wavelet transform
 
 
-###**Circuit Diagram**
+### Circuit Diagram
 <img src= "/Circuit Diagram.png" width="500" style="display: block; margin: auto;" />
-###**Collecting Data from Front Arm**
+### Collecting Data from Front Arm
 <img src= "/Real Sensors.png" width="500" style="display: block; margin: auto;" />
-###**Closed Fist Signal**
+### Closed Fist Signal
 <img src= "/raw closed fist.png" width="500" style="display: block; margin: auto;" />
-###**Open Palm Signal**
+### Open Palm Signal
 <img src= "/raw open palm.png" width="500" style="display: block; margin: auto;" />
 
-###**Sensor Places**
+### Sensor Places
 <img src= "/sensorPlace.001.jpeg" width="500" style="display: block; margin: auto;" />
 
 
