@@ -11,22 +11,22 @@ Our biggest desire after real-time functionality is to expand our testing to mor
 
 ### Circuit Diagram
 
-<img src= "/Circuit Diagram.png" width="500" style="display: block; margin: auto;" />
+<img src= "Circuit Diagram.png" width="500" style="display: block; margin: auto;" />
 
 ### Collecting Data from Front Arm
 
-<img src= "/Real Sensors.png" width="500" style="display: block; margin: auto;" />
+<img src= "Real Sensors.png" width="500" style="display: block; margin: auto;" />
 
 ### Closed Fist Signal
 
-<img src= "/raw closed fist.png" width="500" style="display: block; margin: auto;" />
+<img src= "raw closed fist.png" width="500" style="display: block; margin: auto;" />
 
 ### Open Palm Signal
 
-<img src= "/raw open palm.png" width="500" style="display: block; margin: auto;" />
+<img src= "raw open palm.png" width="500" style="display: block; margin: auto;" />
 
 ### Sensor Places
-<img src= "/sensorPlace.001.jpeg" width="500" style="display: block; margin: auto;" />
+<img src= "sensorPlace.001.jpeg" width="500" style="display: block; margin: auto;" />
 
 
 
