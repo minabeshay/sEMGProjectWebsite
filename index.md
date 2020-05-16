@@ -3,7 +3,10 @@ Our project is a pre-processing procedure to better actuate a prosthetic arm usi
 
 
 ## Real World Applications
-Using the discrete wavelet transform
+
+We wouldlike to setup a system that can provide accurate classification results from the muscle signals in real time. This would benefit many prostheses applications as well as diagnostics on muscle related disorders.
+
+Our biggest desire after real-time functionality would be to expand our testing to more hand motions to see how the wavelet transform affects the classification of a more varied data set. Since the same arm muscle can receive many different actuation signals to perform the variety of motions our hands achieve, it would be interesting to see how well our algorithm can still classify motions that activate similar muscle groups. The other change we would like to try is experimenting with the positioning and quantity of the sEMG Sensors. While we used a ring around the muscle region we knew would be very active, we believe with more research or the assistance of a medical professional we can optimize sensor placement to use less noise sensitive locations that still provide us with the readings we need.
 
 
 ### Circuit Diagram
@@ -26,30 +29,5 @@ Using the discrete wavelet transform
 <img src= "/sensorPlace.001.jpeg" width="500" style="display: block; margin: auto;" />
 
 
-
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 
