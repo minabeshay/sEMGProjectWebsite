@@ -3,7 +3,7 @@ Our project is a pre-processing procedure to better actuate a prosthetic arm usi
 
 
 ## Real World Applications
-Using 
+Using the discrete wavelet transform
 
 
 ## Welcome to GitHub Pages
